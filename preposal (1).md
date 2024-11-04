@@ -17,6 +17,6 @@ Just myself
 
 ## Do you have any questions of your own?
 
-Would be creating an interface with multiple games on it worth of a final project? Even if the games are notes as 'easier' games. 
+Would be creating an interface with multiple games on it worthy of a final project? Even if the games are noted as 'easier' games. 
 
 
